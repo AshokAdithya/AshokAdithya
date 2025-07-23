@@ -23,17 +23,21 @@ IT Undergrad in SSN College of Engineering
 ## My DSA Stats
 <div style="display: flex; gap: 50px; flex-direction:column; align-items:center;">
   <img height="200" src="https://leetcard.jacoblin.cool/Ashy235?theme=dark&font=Crete%20Round">
-  <img height="200" src="https://gfgstatscard.vercel.app/ashokadit7zyg" alt="GFG stats" />
 </div>
+
+
+## 👨‍💻 About Me
+I’m a passionate and growth-driven developer with a strong foundation in Java, Spring Boot, and the MERN stack. I love building scalable systems, solving complex backend challenges, and creating seamless user experiences on the frontend.
+
+⚙️ I enjoy exploring system design, mastering clean architecture, and diving deep into technologies like Kafka, Redis, and microservices. I thrive on turning ideas into efficient, real-world solutions.
+
+💻 I’m also an enthusiastic competitive programmer, constantly improving my problem-solving skills on platforms like Codeforces, LeetCode, and HackerRank.
+
+Always learning, always building — driven by curiosity and a passion for technology.
 
 ### My Github Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AshokAdithya&show_icons=true&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokAdithya&layout=donut-vertical&theme=transparent" />
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AshokAdithya/count.svg" />
-</p>
