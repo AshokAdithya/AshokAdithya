@@ -3,13 +3,6 @@
 
 IT Undergrad in SSN College of Engineering
 
-### My Github Stats
-
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AshokAdithya&show_icons=true&theme=transparent" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokAdithya&layout=donut-vertical&theme=transparent" />
-</div>
-
 ### Languages I Know
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 5px; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -31,6 +24,13 @@ IT Undergrad in SSN College of Engineering
 <div style="display: flex; gap: 50px; flex-direction:column; align-items:center;">
   <img height="200" src="https://leetcard.jacoblin.cool/Ashy235?theme=dark&font=Crete%20Round">
   <img height="200" src="https://gfgstatscard.vercel.app/ashokadit7zyg" alt="GFG stats" />
+</div>
+
+### My Github Stats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AshokAdithya&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshokAdithya&layout=donut-vertical&theme=transparent" />
 </div>
 
 <p align="center"> 
